@@ -3,4 +3,4 @@
           android:id="@+id/map"
           android:layout_width="match_parent"
           android:layout_height="match_parent"
-          android:name="com.google.android.gms.maps.MapFragment"/><!-- From: file:/C:/Users/rranstrom/vendi-master/app/src/main/res/layout/vendorsmap.xml -->
+          android:name="com.google.android.gms.maps.MapFragment"/><!-- From: file:/C:/Users/rranstrom/dev/vendinew/app/src/main/res/layout/vendorsmap.xml -->
