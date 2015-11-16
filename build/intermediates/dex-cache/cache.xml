@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\classes-6f9e087d7cac751c510cc6a032ffa57a99304a47.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\libs\jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\jackson-mapper-asl-1.9.2-85fe9028aa76f904bdc63caddc6672b7a85bc882.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\classes-ac2b48c4268459bfbcf31a48a2f15fc9b971dfb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\json-simple-1.1.1-4ea71a58775022ca499594ccd44f85f0326d753e.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\libs\json-lib-2.4-jdk15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\json-lib-2.4-jdk15-8c631c4dfa164e0b97b1a211a4d831f93dfb2cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\internal_impl-21.0.0-a3a06759c60b24b03f76e807d738bdd382aab0fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\vendi-master\app\libs\jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\jackson-core-asl-1.9.2-a199206473677f7139ed8d8b8c4e66f0f588f397.jar" />
+    </item>
+    <item
+        jar="C:\Users\rranstrom\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\rranstrom\vendi-master\app\build\intermediates\pre-dexed\release\support-annotations-21.0.0-9c43a12fdf18be0597b8e016dc0d500ad41afa3a.jar" />
+    </item>
+
+</items>

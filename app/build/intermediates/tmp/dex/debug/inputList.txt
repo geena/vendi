@@ -1,0 +1,9 @@
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\classes\debug
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-72d0dbace704f708f8ec0820068531128615c253.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-0936d0a12915c4e7721f0e7e498d3fa47d44fe8d.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-a5f56611efe032b79a5d06bc9bfc22d9bb15eb73.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\json-lib-2.4-jdk15-bfad409d9f8e40811644b54f1d2151b4fefd1302.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.2-9a1899dd85abfa90e68d9a3ba5ff1fa1b82f4ae3.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.2-7d1a7923160f81a27b314159cec0b72fd5c5e4d7.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\classes-153330e90febac6ed2fb1043062f61266acdb74f.jar
+C:\Users\Preferred Customer\vendi-master\app\build\intermediates\pre-dexed\debug\classes-b3685bc000e547cfe774a96e69bebd5e0d17ffd0.jar
