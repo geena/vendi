@@ -80,8 +80,6 @@ public class Vendors extends Activity{
 
 			TextView clickedView = (TextView) arg1;
 
-			Toast.makeText(Vendors.this, "Item with id ["+arg3+"] - Position ["+arg2+"] - Result ["+clickedView.getText()+"]", Toast.LENGTH_SHORT).show();
-
 			showMap(arg2);
 
 		}

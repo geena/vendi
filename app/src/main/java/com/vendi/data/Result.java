@@ -103,8 +103,8 @@ public class Result{
 			else
 			{
 				String 	name = bundle.getString(NAME);
-				Float lat = bundle.getFloat(LONG);
-				Float longi = bundle.getFloat(LAT);
+				Float lat = bundle.getFloat(LAT);
+				Float longi = bundle.getFloat(LONG);
 
 				Result result = new Result(name, lat, longi);
 
